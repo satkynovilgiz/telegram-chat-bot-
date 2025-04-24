@@ -3,7 +3,7 @@
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: linear-gradient(135deg, #89f7fe, #66a6ff); /* фон: градиент от голубого к синему */
+    background: linear-gradient(135deg, #83c716, #3e74c0); /* фон: градиент от голубого к синему */
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 20px;
   }
